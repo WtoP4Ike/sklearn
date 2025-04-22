@@ -10,7 +10,7 @@ model.fit(X, y)
 X_new = np.array([[4]])
 prediction = model.predict(X_new)
 print(prediction)
-
+'''
 import matplotlib.pyplot as plt
 
 plt.scatter(X, y, color='blue', label='Данные')
@@ -20,3 +20,4 @@ plt.xlabel('X')
 plt.ylabel('y')
 plt.legend()
 plt.show()
+'''
