@@ -1,7 +1,7 @@
 """
 // 
 // Автор: WtoP4Ike wtop4ike@gmail.com
-// https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example_with_charts.py
+// https://github.com/WtoP4Ike/sklearn/blob/main/linear_classification/example1_with_charts.py
 //
 """
 
