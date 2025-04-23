@@ -29,6 +29,6 @@
 <br><br>
 <h7>Ссылки на материалы по теме:</h7>
 <p align="center">
-- Исходный код: https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example.py
+- Исходный код: https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example.py <br>
 - Исходный код с построением графиков: https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example_with_charts.py
 </p>
