@@ -7,12 +7,12 @@
 Значит, всего двух точек нам будет достаточно для обучения линейной модели. Визуализируем (рис. 1):<br>
 
 ![image](https://github.com/user-attachments/assets/b8c1d395-1fb8-42d1-ad86-c5d87dfe7a0e)
-<br>
+
 <p align="center"><sup>Рис. 1. Визуализация модели</sup></p>
 <br>
 Предскажем число для точки 4. Продлим линию и поставим на ней точку с x = 4, значит y = 11. Именно так будет работать программа (рис. 2):<br><br>
 ![image](https://github.com/user-attachments/assets/679a7290-d3d6-48af-8c63-f3719fa3bb29)
-<br>
+
 <p align="center"><sup>Рис. 2. Пример кода для линейной регрессии.</sup><br>
 <h7>Код: https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example.py</h7></p>
 Разберем код по строчкам. <br>
