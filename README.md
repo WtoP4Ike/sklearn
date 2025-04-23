@@ -1,6 +1,6 @@
 <h1>Гайды по sklearn</h1><br>
-- [Установка](#раздел-1-установка)
-- [Раздел 2. Линейная регрессия](#раздел 2. Линейная регрессия)
+- Раздел 1. Установка: https://github.com/WtoP4Ike/sklearn/tree/main?tab=readme-ov-file#%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-1-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0
+- Раздел 2. Линейная регрессия: https://github.com/WtoP4Ike/sklearn/tree/main?tab=readme-ov-file#%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB-2-%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F-%D1%80%D0%B5%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B8%D1%8F
 <br><br>
 <h2>Раздел 1. Установка</h2>h2>
 Команда для установки:<br>
