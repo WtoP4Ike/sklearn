@@ -15,7 +15,7 @@
 ![image](https://github.com/user-attachments/assets/679a7290-d3d6-48af-8c63-f3719fa3bb29)
 <br>
 <p align="center"><sup>Рис. 2. Пример кода для линейной регрессии.</sup><br></p>
-<p align="center"><h7>Код: [ТЫК](https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example.py)</h7></p>
+<h7><p align="center">Код: [ТЫК](https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example.py)</p></h7>
 Разберем код по строчкам. <br>
 На линии 4 задаем точки для обучения по X. В нашем случае используется один параметр для предсказания итогового числа. Однако,
 может быть больше чем один входящий параметр для предсказания одного числа. Например, можно добавить второй параметр и предсказывать что-то еще. Тогда это
@@ -28,6 +28,6 @@
 Итог – в консоль выводится 11, как и должно быть.<br>
 <br>
 <p align="center">
-- [Исходный код](https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example.py)
-- [Исходный код с построением графиков](https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example_with_charts.py)
+- Исходный код: https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example.py
+- Исходный код с построением графиков: https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example_with_charts.py
 </p>
