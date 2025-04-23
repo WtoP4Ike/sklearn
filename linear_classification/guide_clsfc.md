@@ -39,4 +39,12 @@
 <p align="center"><sup>Рис. 4. Пример кода для линейной классификации для 2-з входящих параметров.</sup><br>
 <h7>Код: https://github.com/WtoP4Ike/sklearn/blob/main/linear_classification/example2.py</h7></p><br>
 <br>
-Различия понятны. Просто добавляем ещё один параметр в данные для обучения и в место для предсказания.
+Различия понятны. Просто добавляем ещё один параметр в данные для обучения и в место для предсказания. Выходной ответ для параметров [13, 88] - 1.
+
+<p align="center">
+- Исходный код для 1 параметра: https://github.com/WtoP4Ike/sklearn/blob/main/linear_classification/example1.py <br>
+- Исходный код с построением графиков для 1 параметра: https://github.com/WtoP4Ike/sklearn/blob/main/linear_classification/example1_with_charts.py <br>
+- Исходный код для 2-х параметров: https://github.com/WtoP4Ike/sklearn/blob/main/linear_classification/example2.py <br>
+- Исходный код с построением графиков для 2-х параметров: https://github.com/WtoP4Ike/sklearn/blob/main/linear_classification/example2_with_charts.py
+</p>
+
