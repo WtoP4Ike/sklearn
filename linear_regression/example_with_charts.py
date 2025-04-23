@@ -1,11 +1,8 @@
 """
 // 
 // Автор: WtoP4Ike wtop4ike@gmail.com
-// Copyright (c) 2025, WTOP4IKE
-// Лицензия: GNU General Public License v3.0 - https://www.gnu.org/licenses/gpl-3.0.html
-// Версия: 1.0.0
-// Сайт: https://t.me/wtop4ike
-// 
+// https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example_with_charts.py
+//
 """
 
 from sklearn.linear_model import LinearRegression
