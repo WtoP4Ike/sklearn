@@ -8,7 +8,8 @@
 <br>
 Визуализируем, как будут выглядить данные (рис. 1):
 
-![image](https://github.com/user-attachments/assets/04c58ce9-dda5-4a96-bbbf-7ee64a2e7687)
+![image](https://github.com/user-attachments/assets/d57d1d38-2cb2-4e19-960b-c6870199296d)
+
 
 <p align="center"><sup>Рис. 1. Визуализация модели</sup></p>
 <br>
