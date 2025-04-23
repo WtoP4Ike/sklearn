@@ -1,3 +1,10 @@
+"""
+// 
+// Автор: WtoP4Ike wtop4ike@gmail.com
+// https://github.com/WtoP4Ike/sklearn/blob/main/linear_regression/example_with_charts.py
+//
+"""
+
 import numpy as np
 from sklearn.linear_model import LogisticRegression
 import matplotlib.pyplot as plt
