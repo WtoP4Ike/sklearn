@@ -12,7 +12,9 @@
 <br>
 Предскажем число для точки 4. Продлим линию и поставим на ней точку с x = 4, значит y = 11. Именно так будет работать программа (рис. 2):<br><br>
 <p align="center">
-![image](https://github.com/user-attachments/assets/679a7290-d3d6-48af-8c63-f3719fa3bb29)
+  
+  ![image](https://github.com/user-attachments/assets/679a7290-d3d6-48af-8c63-f3719fa3bb29)
+  
 </p>
 <br>
 <p align="center"><sup>Рис. 2. Пример кода для линейной регрессии.</sup><br>
