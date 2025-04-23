@@ -13,10 +13,12 @@ pip install scikit-learn
 Пусть изначально даны числа 1, 3. Складываем их с 7 и получаем 8, 10. Логично, что линию можно провести по двум точкам. 
 Значит, всего двух точек нам будет достаточно для обучения линейной модели. Визуализируем (рис. 1):<br>
 ![image](https://github.com/user-attachments/assets/ef8931ba-9242-405a-a3ea-3bb552d3f74f)
+<br>
 <sup>Рис. 1. Визуализация модели</sup>
 <br>
 Предскажем число для точки 4. Продлим линию и поставим на ней точку с x = 4, значит y = 11. Именно так будет работать программа (рис. 2):<br>
 ![image](https://github.com/user-attachments/assets/9d97a82a-3ff9-45ba-8e90-32c94940690b)
+<br>
 <sup>Рис. 2. Пример кода для линейной регрессии.</sup><br>
 Код:  https://github.com/WtoP4Ike/sklearn/blob/main/2.py
 Разберем код по строчкам (ссылка для копирования: https://github.com/WtoP4Ike/scikit-learn/blob/main/linear_regression/example.py).
